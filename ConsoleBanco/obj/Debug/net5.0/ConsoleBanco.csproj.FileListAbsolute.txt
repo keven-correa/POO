@@ -1,0 +1,16 @@
+C:\Users\Keven\source\repos\Ejercicios POO\ConsoleBanco\bin\Debug\net5.0\ConsoleBanco.exe
+C:\Users\Keven\source\repos\Ejercicios POO\ConsoleBanco\bin\Debug\net5.0\ConsoleBanco.deps.json
+C:\Users\Keven\source\repos\Ejercicios POO\ConsoleBanco\bin\Debug\net5.0\ConsoleBanco.runtimeconfig.json
+C:\Users\Keven\source\repos\Ejercicios POO\ConsoleBanco\bin\Debug\net5.0\ConsoleBanco.runtimeconfig.dev.json
+C:\Users\Keven\source\repos\Ejercicios POO\ConsoleBanco\bin\Debug\net5.0\ConsoleBanco.dll
+C:\Users\Keven\source\repos\Ejercicios POO\ConsoleBanco\bin\Debug\net5.0\ref\ConsoleBanco.dll
+C:\Users\Keven\source\repos\Ejercicios POO\ConsoleBanco\bin\Debug\net5.0\ConsoleBanco.pdb
+C:\Users\Keven\source\repos\Ejercicios POO\ConsoleBanco\obj\Debug\net5.0\ConsoleBanco.csproj.AssemblyReference.cache
+C:\Users\Keven\source\repos\Ejercicios POO\ConsoleBanco\obj\Debug\net5.0\ConsoleBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keven\source\repos\Ejercicios POO\ConsoleBanco\obj\Debug\net5.0\ConsoleBanco.AssemblyInfoInputs.cache
+C:\Users\Keven\source\repos\Ejercicios POO\ConsoleBanco\obj\Debug\net5.0\ConsoleBanco.AssemblyInfo.cs
+C:\Users\Keven\source\repos\Ejercicios POO\ConsoleBanco\obj\Debug\net5.0\ConsoleBanco.csproj.CoreCompileInputs.cache
+C:\Users\Keven\source\repos\Ejercicios POO\ConsoleBanco\obj\Debug\net5.0\ConsoleBanco.dll
+C:\Users\Keven\source\repos\Ejercicios POO\ConsoleBanco\obj\Debug\net5.0\ref\ConsoleBanco.dll
+C:\Users\Keven\source\repos\Ejercicios POO\ConsoleBanco\obj\Debug\net5.0\ConsoleBanco.pdb
+C:\Users\Keven\source\repos\Ejercicios POO\ConsoleBanco\obj\Debug\net5.0\ConsoleBanco.genruntimeconfig.cache
